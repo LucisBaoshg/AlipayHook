@@ -1,0 +1,6 @@
+framework module Pods_AlipayDylib {
+  umbrella header "Pods-AlipayDylib-umbrella.h"
+
+  export *
+  module * { export * }
+}
